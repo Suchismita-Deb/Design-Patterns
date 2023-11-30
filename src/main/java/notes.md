@@ -1,6 +1,6 @@
 ![img.png](images/img.png)
 
-![img.png](img.png)
+![img.png](images/img1.png)
 
 ## SOLID design Pattern introduced by Robert C Martin.
 
